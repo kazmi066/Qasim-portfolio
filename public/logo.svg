@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" fill="#0C100E"/>
+  <rect x="6" y="10" width="52" height="44" rx="2" stroke="#EDE6D6" stroke-width="2"/>
+  <rect x="2" y="14" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="2" y="20.5" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="2" y="27" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="2" y="33.5" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="2" y="40" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="2" y="46.5" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="56" y="14" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="56" y="20.5" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="56" y="27" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="56" y="33.5" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="56" y="40" width="6" height="3.5" fill="#EDE6D6"/>
+  <rect x="56" y="46.5" width="6" height="3.5" fill="#EDE6D6"/>
+  <path d="M24 22c8 0 14 6 14 14s-6 14-14 14-14-6-14-14 6-14 14-14zm0 6c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-3.6-8-8-8z" fill="#EDE6D6"/>
+  <path d="M36.5 38.5 44 46" stroke="#EDE6D6" stroke-width="3" stroke-linecap="round"/>
+</svg>
